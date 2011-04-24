@@ -24,7 +24,7 @@ Gem::Specification.new do |s|
   s.email   = %q{support@thoughtbot.com}
   s.homepage = "http://github.com/thoughtbot/diesel"
 
-  s.add_dependency('railties', '~> 3.1.0')
+  s.add_dependency('railties', '~> 3.1.0.beta')
 
   s.platform = Gem::Platform::RUBY
   s.rubygems_version = %q{1.2.0}
